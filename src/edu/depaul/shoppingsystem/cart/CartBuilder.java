@@ -46,7 +46,7 @@ public class CartBuilder implements FinalizeOrder {
     }
 
     private boolean isValidCustomerInfo() {
-        // Placeholder for customer info validation logic
+        // customer info validation logic
         return customerName != null && !customerName.isEmpty() &&
                customerAddress != null && !customerAddress.isEmpty() &&
                customerEmail != null && !customerEmail.isEmpty();
