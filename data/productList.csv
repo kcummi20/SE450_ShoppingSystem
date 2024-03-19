@@ -1,0 +1,21 @@
+itemName,price,id,stockLevel,delivery,type,description,color,size,brand,processorType,room
+T-shirt,19.99,fd25b3ca-16c7-46af-8ccb-d77f15e18405,In Stock,Pick Up,Clothing,Cotton t-shirt with graphic print,Yellow,Medium,,
+Jeans,49.99,c6810ad0-543d-460c-8e46-c2ea19c15747,In Stock,Delivery,Clothing,Slim-fit denim jeans,Blue,32x32,,
+Evening Dress,89.99,956858ae-bef2-45d3-b8b0-329a9d7903f7,Limited Stock,Pick Up,Clothing,Elegant evening dress with sequins,Black,Small,,
+Sneakers,79.99,a49f434b-0ad6-4ef6-85aa-8355959b65e8,In Stock,Delivery,Clothing,Running shoes with cushioned soles,White,US 9,,
+Hoodie,39.99,43887416-8dc4-4457-8611-a63ea51e831a,In Stock,Pick Up,Clothing,Hoodie with front pocket,Taupe,Large,,
+Smartphone,799.99,a73e789f-6030-4d0c-8d05-3275917f462d,In Stock,Pick Up,Electronics,Smartphone with rounded corners and dual camera,Pink,,Apple,A14 Bionic,
+Laptop,999.99,062b816c-d4bb-4d1a-8b67-8ff1f0d14065,Limited Stock,Delivery,Electronics,High-performance laptop,Silver,,HP,Intel Core i7,
+Smart TV,1499.99,3e9f9cae-12a3-45c2-8232-b5aad8c012ae,In Stock,Pick Up,Electronics,4K Ultra HD Smart TV,Black,,Samsung,Samsung QLED,
+Camera,1299.99,802555ca-b750-43b7-8f15-3ddd68a2715e,In Stock,Pick Up,Electronics,Mirrorless camera with 4K video recording,Black,,Sony,Sony Alpha series,
+Headphones,299.99,7ad0f637-517b-437a-aa28-2075458ba7f4,In Stock,Pick Up,Electronics,Wireless noise-cancelling headphones,Rose Gold,,Bose,Bose QuietComfort,
+Apple,0.99,22a2a268-d263-4cb1-b4b5-70cedc5f8f5f,In Stock,Pick Up,Food,Fresh and juicy apple,,,8 oz.,
+Pizza,12.99,4ea0c3c5-632f-46f1-866c-c5b39112d5bc,In Stock,Delivery,Food,Large pepperoni pizza,,,16 in.,
+Chocolate,3.49,495450d4-ffd3-4ed9-a9c1-d15ada16c7fd,In Stock,Pick Up,Food,Delicious milk chocolate bar,,,3.5 oz.,
+Salad,7.99,c9c4d85f-4526-4813-a6d4-b077b2c053b8,In Stock,Delivery,Food,Healthy mixed greens salad,,,12 oz.,
+Ice Cream,4.99,7ba244c3-fad9-468a-af2d-2ad9295dfb9d,In Stock,Pick Up,Food,Vanilla ice cream,,,1 pint,
+Table Lamp,29.99,b0580ec9-07f7-4025-95c2-caa77f5150a0,In Stock,Pick Up,Home,Modern table lamp,Sage Green,,,,Dining Room
+Area Rug,99.99,74cada1b-a8aa-4cf4-81a1-031047b21670,In Stock,Delivery,Home,Soft area rug for living room,Blue,,,,Living Room
+Chair,79.99,8212193b-498c-4977-92db-8c6cbdf5f38c,In Stock,Pick Up,Home,Comfortable armchair,Gray,,,,Kitchen
+Bed,499.99,9a8e3af0-46ce-48f3-a033-89d406a8cef2,In Stock,Pick Up,Home,Queen-size bed frame,Brown,,,,Bedroom
+Bookshelf,59.99,b9bafecf-b191-42b2-aa74-abf4810f75db,Limited Stock,Delivery,Home,Wooden bookshelf with 3 shelves,Brown,,,,Home Office
