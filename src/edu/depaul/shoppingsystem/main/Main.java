@@ -3,7 +3,7 @@ package edu.depaul.shoppingsystem.main;
 import edu.depaul.shoppingsystem.cart.*;
 import edu.depaul.shoppingsystem.product.*;
 import edu.depaul.shoppingsystem.user.*;
-import edu.depaul.shoppingsystem.order.*;
+import edu.depaul.shoppingsystem.payment.*;
 
 import java.util.Scanner; 
 
