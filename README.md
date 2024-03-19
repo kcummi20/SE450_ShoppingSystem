@@ -18,17 +18,21 @@ Alternatively, if using an IDE (such as Eclipse), you can directly run the 'Main
 
 ## Navigation Features
 User Authentication: Log in or create an account to associate cart data with user accounts.
+
 Product Catalog: Browse a catalog of products loaded from a CSV file.
+
 Shopping Cart Management: Add or remove products from your shopping cart.
+
 Order and Payment Processing: Place orders and simulate the payment process using a mock payment gateway.
+
 Logging: The system records important events and transactions.
 
 ## Design and Implementation
 The application incorporates various design patterns and SOLID principles:
 
-Singleton: Used for cart and product catalog management to ensure a single instance.
-Factory: A ProductFactory creates product objects for the catalog.
-Builder: CartBuilder constructs shopping carts with a fluent interface.
+Singleton: Used for cart and product catalog management to ensure a single instance.<br />
+Factory: A ProductFactory creates product objects for the catalog.<br />
+Builder: CartBuilder constructs shopping carts with a fluent interface.<br />
 SOLID Principles: The application structure adheres to OCP, SRP, LSP, ISP, and DIP for maintainability and extensibility.
 
 ## Testing 
