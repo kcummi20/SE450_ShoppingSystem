@@ -1,4 +1,4 @@
-package edu.depaul.shoppingsystem.order; 
+package edu.depaul.shoppingsystem.payment; 
 
 import edu.depaul.shoppingsystem.cart.Cart;
 import edu.depaul.shoppingsystem.payment.*;
