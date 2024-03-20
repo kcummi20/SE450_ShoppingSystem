@@ -1,7 +1,7 @@
 # SE450 Final Project: Shopping System
 
 ## Project Overview 
-The "Southport Superstore" Shopping System is a comprehensive application developed to apply the fundamental principles and design patterns learned in my SE 540 course. This project emphasizes hands-on experience in building a robust and maintainable software application while incorporating SOLID principles, Singleton, Factory, and Builder design patterns. The system allows customers to browse products, add items to their shopping cart, place orders, and simulate the payment process.
+The "Southport Superstore" Shopping System is a comprehensive application developed to apply the fundamental principles and design patterns learned in my SE 450 course. This project emphasizes hands-on experience in building a robust and maintainable software application while incorporating SOLID principles, Singleton, Factory, and Builder design patterns. The system allows customers to browse products, add items to their shopping cart, place orders, and simulate the payment process.
 
 ## Getting Started
 ### Prerequisites
